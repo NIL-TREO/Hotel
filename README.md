@@ -1,2 +1,2 @@
 # Hotel
-A small Java program to administrate the availability of rooms in a hotel.
+A small program to administrate the rooms of a hotel. Define amount and numbers of rooms first. Check in or check out guests through the corresponding methods.
