@@ -1,4 +1,4 @@
-package W_9_8_Hotelzimmerverwaltung;
+package Hotel;
 
 public class Room {
 	private int roomNumber;
