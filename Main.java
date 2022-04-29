@@ -1,4 +1,4 @@
-package W_9_8_Hotelzimmerverwaltung;
+package Hotel;
 /* Small program to administrate the rooms of a hotel.
  * Define amount and numbers of rooms first.
  * Check in or check out guests through corresponding methods
